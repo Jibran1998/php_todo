@@ -1,8 +1,8 @@
-#PHP TODO LIST
+# PHP TODO LIST
 
 A simple Todo list application in php. Xampp server. for learning purpose of php.
 
-#####USAGE:
+##### USAGE:
 Just donwload the repository and extract the files mysql.zip in folder:
 
 xampp/mysql/
